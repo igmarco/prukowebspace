@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Recursos/Creación de la página web/","tags":["prukogui","recurso"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/Recursos/Creación de la página web/","tags":["prukogui","recurso"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
 ---
 
 [[Prukogui WebSpace\|Prukogui WebSpace]]

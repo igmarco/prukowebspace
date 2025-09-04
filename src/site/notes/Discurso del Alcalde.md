@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Discurso del Alcalde/","tags":["prukogui","homepage","recurso"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/Discurso del Alcalde/","tags":["prukogui","homepage","recurso"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
 ---
 
 # ¡Bienvenido!

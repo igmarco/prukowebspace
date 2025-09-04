@@ -1,4 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Plantillas/_Plantilla/"}
----
-

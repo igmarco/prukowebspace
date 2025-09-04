@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Prukogui WebSpace/","tags":["prukogui","homepage","gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/Prukogui WebSpace/","tags":["prukogui","homepage","gardenEntry"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
 ---
 
 # Prukogui WebSpace

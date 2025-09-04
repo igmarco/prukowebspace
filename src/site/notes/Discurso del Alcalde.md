@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Prukogui WebSpace/","tags":["prukogui","homepage","gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/Discurso del Alcalde/","tags":["prukogui","homepage","recurso"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
 ---
-
-# Prukogui WebSpace
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Discurso del Alcalde/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # ¡Bienvenido!
 ¡Buenos días, prukofílico!
@@ -21,15 +14,3 @@ La idea es tratar de construir un espacio en el que cualquier prukón pueda desa
 - **Calendario**: Más que para planificarnos, para dejar un registro de lo que hacemos. ¡Que no se nos olvide nada!
 
 La verdad es que es un proyecto apasionante... ¡Qué ganas de ver en qué se convierte!
-
-</div></div>
-
-
----
-## Prukones
-
----
-## Eventos
-
----
-## Información

@@ -3,15 +3,15 @@
 ---
 
 # Prukogui WebSpace
-![prukowsicon3.png](/img/user/Recursos/Im%C3%A1genes/prukowsicon3.png)
+![prukowsim1.png](/img/user/Recursos/Im%C3%A1genes/prukowsim1.png)
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Discurso del Alcalde/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Otros/Discurso del Alcalde/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 # ¡Bienvenido!
-> [!Cite] Ignacio, Alcalde de Prukogui, *2025-09-04*
+> [!summary] [[Prukones/Ignacio\|Ignacio]], Alcalde de Prukogui, *2025-09-04*
 > ¡Buenos días, prukofílico!
 > 
 > ¿Sabías que la fantasticúrea alcaldidatura de Ignacio "Prukón Respetable" (P'nes) está construyendo un espacio web en esta página basada en *Obsidian*? ¡Quién diría que cumpliría con sus promesas electorales!
@@ -25,6 +25,12 @@
 > La verdad es que es un proyecto apasionante... ¡Qué ganas de ver en qué se convierte!
 
 </div></div>
+
+
+---
+## ¿Qué es Prukogui?
+> [!question]
+> Dices mientras clavas... Espera, no, a ver. ¿Qué es Prukogui? Yo diría que es... ¡Croquetas! O algo así, tal vez.
 
 
 ---
